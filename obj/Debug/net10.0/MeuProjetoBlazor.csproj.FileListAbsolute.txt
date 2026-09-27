@@ -83,3 +83,4 @@ C:\Users\Pedro Leão\Desktop\UNI\MeuProjetoBlazor\obj\Debug\net10.0\refint\MeuPr
 C:\Users\Pedro Leão\Desktop\UNI\MeuProjetoBlazor\obj\Debug\net10.0\MeuProjetoBlazor.pdb
 C:\Users\Pedro Leão\Desktop\UNI\MeuProjetoBlazor\obj\Debug\net10.0\MeuProjetoBlazor.genruntimeconfig.cache
 C:\Users\Pedro Leão\Desktop\UNI\MeuProjetoBlazor\obj\Debug\net10.0\ref\MeuProjetoBlazor.dll
+C:\Users\Pedro Leão\Desktop\UNI\MeuProjetoBlazor\obj\Debug\net10.0\MeuProjetoBlazor.sourcelink.json
